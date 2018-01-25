@@ -11,6 +11,7 @@ namespace Demo
         public void Calculation(int a)
         {
             this.a = a;
+
         }
     }
 }
