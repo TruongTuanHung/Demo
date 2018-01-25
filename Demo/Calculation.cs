@@ -7,5 +7,8 @@ namespace Demo
 {
     class Calculation
     {
+        public void Calculation()
+        {
+        }
     }
 }
